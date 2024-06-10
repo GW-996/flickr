@@ -4,7 +4,7 @@ import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import com.example.flickrbrowser.databinding.ActivityPhotoDetailBinding;
 
-public class PhotoDetailActivity extends AppCompatActivity {
+public class  PhotoDetailActivity extends AppCompatActivity {
 
     private ActivityPhotoDetailBinding binding;
 
